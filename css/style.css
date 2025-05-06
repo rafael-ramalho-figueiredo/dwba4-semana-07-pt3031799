@@ -96,8 +96,10 @@ figcaption {
 
 div.container {
   display: grid;
+  margin: 30px 50px;
   width: 100%;
   align-content: space-between;
+  row-gap: 40px;
 }
 
 .gridItem {

@@ -96,9 +96,19 @@ figcaption {
 
 div.container {
   display: grid;
-  
+  width: 100%;
+  align-content: space-between;
 }
 
 .gridItem {
+  text-align: center;
+}
 
+.a {
+  grid-column-start: 1;
+
+}
+
+.b {
+  grid-column-start: 2;
 }

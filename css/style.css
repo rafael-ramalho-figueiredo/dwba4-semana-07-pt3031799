@@ -85,3 +85,20 @@ ul, li {
   margin-bottom: 10px;
   padding: 10px;
 }
+
+.gridImg {
+  height: 200px;
+}
+
+figcaption {
+  border: 0;
+}
+
+div.container {
+  display: grid;
+  
+}
+
+.gridItem {
+
+}
